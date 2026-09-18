@@ -35,13 +35,13 @@ Business findings and recommendations
 
 ## Files
 
-- `Data Analyst Case Study.docx` — Detailed project report
-- `amazon_sales_dataset.csv` — Raw dataset
-- `Data Quality_Cleaning_Validation.SQL` — Data cleaning and validation queries
-- `Business Analysis.sql` — Business analysis queries
-- `Amazon Sales Analysis.xlsx` — Excel MIS Reporting and KPI Validation
-- `Power BI Interactions.mp4` — Interactive Power BI dashboard walkthrough
-- `Amazon Sales Case Study.pptx` — Project presentation and business analysis summary
+- `Data Analyst Case Study.docx` — Detailed project report — [Click here to preview](https://docs.google.com/document/d/1js87QzEDhzsnOtoTb6lxAbLOVJ9JbARi/edit?usp=sharing&ouid=118115429527065079560&rtpof=true&sd=true)
+- `amazon_sales_dataset.csv` — Raw dataset — [Click here to preview](https://drive.google.com/file/d/1t20pNK7LnFHN5FrMT6hNYiAtjfG8K9ks/view?usp=sharing)
+- `Data Quality_Cleaning_Validation.SQL` — Data cleaning and validation queries — [Click here to preview](https://drive.google.com/file/d/1iKQImPSpKHiGrd0mbaKRQsGbkNE9hxrm/view?usp=sharing)
+- `Business Analysis.sql` — Business analysis queries — [Click here to preview](https://drive.google.com/file/d/1iKQImPSpKHiGrd0mbaKRQsGbkNE9hxrm/view?usp=sharing)
+- `Amazon Sales Analysis.xlsx` — Excel MIS Reporting and KPI Validation — [Click here to preview](https://docs.google.com/spreadsheets/d/1dZZTI3RglrMTG0F_B2pe-lkbyEk593ZW/edit?usp=sharing&ouid=118115429527065079560&rtpof=true&sd=true)
+- `Power BI Interactions.mp4` — Interactive Power BI dashboard walkthrough — [Click here to preview](https://drive.google.com/file/d/1a9eAW1XZoJa764R6QGw-grVro4YInAiD/view?usp=sharing)
+- `Amazon Sales Case Study.pptx` — Project presentation and business analysis summary — [Click here to preview](https://docs.google.com/presentation/d/1kUfb-079QiPYNxEgcOVU165MiZqzDiTR/edit?usp=sharing&ouid=118115429527065079560&rtpof=true&sd=true)
 
 ## Key Findings
 
