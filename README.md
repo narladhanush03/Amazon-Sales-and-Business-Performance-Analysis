@@ -35,11 +35,13 @@ Business findings and recommendations
 
 ## Files
 
+- `Data Analyst Case Study.docx` — Detailed project report
 - `amazon_sales_dataset.csv` — Raw dataset
-- `Data_Quality_Cleaning_Validation.SQL` — Data cleaning and validation queries
+- `Data Quality_Cleaning_Validation.SQL` — Data cleaning and validation queries
 - `Business Analysis.sql` — Business analysis queries
-- `Project Report.docx` — Final project report
-- `Power BI Interactions.mp4` — Dashboard walkthrough
+- `Amazon Sales Analysis.xlsx` — Excel MIS Reporting and KPI Validation
+- `Power BI Interactions.mp4` — Interactive Power BI dashboard walkthrough
+- `Amazon Sales Case Study.pptx` — Project presentation and business analysis summary
 
 ## Key Findings
 
